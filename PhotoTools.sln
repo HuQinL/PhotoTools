@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoTools", "PhotoTools\PhotoTools.csproj", "{01F386CF-748D-4BC5-BA4D-9D428D193C20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hs.Utility.OpenCv", "Hs.Utility.OpenCv\Hs.Utility.OpenCv.csproj", "{9FE5B6BF-D050-4555-BFC4-ED694873F99F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01F386CF-748D-4BC5-BA4D-9D428D193C20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F386CF-748D-4BC5-BA4D-9D428D193C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F386CF-748D-4BC5-BA4D-9D428D193C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F386CF-748D-4BC5-BA4D-9D428D193C20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FE5B6BF-D050-4555-BFC4-ED694873F99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE5B6BF-D050-4555-BFC4-ED694873F99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE5B6BF-D050-4555-BFC4-ED694873F99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE5B6BF-D050-4555-BFC4-ED694873F99F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43F1D2A5-9E65-40D3-800F-2AA1A06CBD32}
+	EndGlobalSection
+EndGlobal
